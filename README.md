@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi there! 👋 I'm Pius,<br><br><br>I am a dynamic and versatile professional with a strong background in computer science and a genuine passion for technology. With experience as a DevOps Engineer, I have successfully driven innovation and efficiency across diverse industries. I am a quick learner with an insatiable curiosity, adept at leveraging a wide range of tech tools and practices. My exceptional customer service is complemented by a steadfast commitment to problem-solving. I am eager to contribute to a forward-thinking organization that values innovation and continuous improvement with an "automate everything" mindset.</h2>
+<p align="left">Hi there! 👋 I'm Pius,<br><br><br>I am a dynamic and versatile professional with a strong background in computer science and a genuine passion for technology. With experience as a DevOps Engineer, I have successfully driven innovation and efficiency across diverse industries. I am a quick learner with an insatiable curiosity, adept at leveraging a wide range of tech tools and practices. My exceptional customer service is complemented by a steadfast commitment to problem-solving. I am eager to contribute to a forward-thinking organization that values innovation and continuous improvement with an "automate everything" mindset.</p>
 
 ###
 
